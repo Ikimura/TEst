@@ -6,6 +6,7 @@
 //  Copyright © 2016 artsiom_karseka. All rights reserved.
 //
 line in top
+feat(remote) add line on remote master
 
 class ViewController: UIViewController {
 
