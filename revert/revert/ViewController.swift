@@ -6,7 +6,6 @@
 //  Copyright © 2016 artsiom_karseka. All rights reserved.
 //
 
-import UIKit
 
 class ViewController: UIViewController {
 
